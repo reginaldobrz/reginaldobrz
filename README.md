@@ -14,7 +14,7 @@ Im Regianaldo Aguiar Morais, I'm a full stack developer and a huge fan of new te
 - 👯 I’m looking to collaborate on c# an react communits
 - 💬 Ask me about everything, if i could i'll help! 
 - 📫 How to reach me: reginaldo-aguiar@hotmail.com
-- ⚡ Fun fact: I'm a full stack overflow ( I'm kidding, ok?)
+- ⚡ Fun fact: I'm a full stack overflow developer ( I'm kidding, ok?)
 - 💻 Technologies: React, React Native, C#, .NetCore, Node and Type Script
 
 "Luke, I am your father - Darth Vader"
