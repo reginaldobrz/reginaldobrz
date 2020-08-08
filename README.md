@@ -17,5 +17,5 @@ Im Regianaldo Aguiar Morais, I'm a full stack developer and a huge fan of new te
 - ⚡ Fun fact: I'm a full stack overflow developer ( I'm kidding, ok?)
 - 💻 Technologies: React, React Native, C#, .NetCore, Node and Type Script
 
-"Luke, I am your father - Darth Vader "
+"Luke, I am your father - Darth Vader " 
 
