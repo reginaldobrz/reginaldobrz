@@ -7,7 +7,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/reginaldobrz.svg?style=social)](https://twitter.com/reginaldobrz)   
  
 
-Im Regianaldo Aguiar Morais, I'm a full stack developer and a huge fan of new technologies, so look below to know more about me!
+Im Reginaldo Aguiar Morais, I'm a full stack developer and a huge fan of new technologies, so look below to know more about me!
 
 - ⌨ I’m currently working at Deal Technologies
 - 🌱 I’m currently learning React and C#(.NetCore)
