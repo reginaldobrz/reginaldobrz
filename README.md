@@ -40,5 +40,5 @@ Call me Reginaldo, I'm a full stack over flow (joke-ASAP) developer and a huge f
 ![Snake animation](https://github.com/reginaldobrz/reginaldobrz/blob/output/github-contribution-grid-snake.svg)
  
 <div>
- <a align="center" href="https://www.youtube.com/watch?v=_lOT2p_FCvA">Luke, I am your father - Darth Vader </a> 
+ <a align="center" href="https://www.youtube.com/watch?v=_lOT2p_FCvA" target="_blank">Luke, I am your father - Darth Vader </a> 
 </div>
