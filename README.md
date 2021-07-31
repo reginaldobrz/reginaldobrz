@@ -38,11 +38,13 @@ Call me Reginaldo, I'm a full stack over flow (joke-ASAP) developer and a huge f
  
 ![Snake animation](https://github.com/reginaldobrz/reginaldobrz/blob/output/github-contribution-grid-snake.svg)
  
- ##
+
  
 <div style="display: inline_block"><br>
  <img align="right" alt="Regis-darth"  height="128" width="138" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/41d9a5a6-b168-462c-a95c-26a308acdc9a/d9jc49c-e3c09897-0692-4ff0-b51b-6e119da5c8cf.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzQxZDlhNWE2LWIxNjgtNDYyYy1hOTVjLTI2YTMwOGFjZGM5YVwvZDlqYzQ5Yy1lM2MwOTg5Ny0wNjkyLTRmZjAtYjUxYi02ZTExOWRhNWM4Y2YuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.zIJhrOwb1rZY3cI3_0aviM9Z62HFjJvELR2zR6z0XfI"> 
 </div>
+ 
+ ##
  
 <a align="center" href="https://www.youtube.com/watch?v=_lOT2p_FCvA" target="_blank">Luke, I am your father - Darth Vader </a> 
 
