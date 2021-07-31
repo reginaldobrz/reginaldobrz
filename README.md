@@ -9,7 +9,6 @@
 
 Im Reginaldo Aguiar Morais, I'm a full stack developer and a huge fan of new technologies, so look below to know more about me!
 
-- ⌨ I’m currently working at Deal Technologies
 - 🌱 I’m currently learning React and C#(.NetCore)
 - 👯 I’m looking to collaborate on c# and react communits
 - 💬 Ask me about everything, if i could i'll help! 
