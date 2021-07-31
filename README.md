@@ -13,6 +13,18 @@ Call me Reginaldo, I'm a full stack over flow (joke-ASAP) developer and a huge f
 - 📫 How to reach me: reginaldo-aguiar@hotmail.com
 - ⚡ Fun fact: I'm a full stack overflow developer ( I'm kidding, ok?)
 - 💻 Technologies: React, React Native, C#, .NetCore, Node and Type Script
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Regis-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Regis-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Regis-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Regis-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Regis-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Regis-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Regis-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
+  <img align="right" alt="Regis-darth"  height="128" width="128" src="http://fanaru.com/star-wars/image/219675-star-wars-darth-vader.gif"> 
+</div>
+  
  
 ##
 
@@ -22,20 +34,11 @@ Call me Reginaldo, I'm a full stack over flow (joke-ASAP) developer and a huge f
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reginaldobrz&layout=compact&langs_count=7&theme=kacho_ga"/>
 </div>
  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Regis-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Regis-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Regis-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Regis-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Regis-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Regis-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Regis-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
-  <img align="right" alt="Regis-yoda"  height="128" width="128" src="http://fanaru.com/star-wars/image/219675-star-wars-darth-vader.gif">
- 
-</div>
-  
+
 ##
  
 ![Snake animation](https://github.com/reginaldobrz/reginaldobrz/blob/output/github-contribution-grid-snake.svg)
  
-"Luke, I am your father - Darth Vader " 
+<div>
+ <a align="center" href="https://www.youtube.com/watch?v=_lOT2p_FCvA">Luke, I am your father - Darth Vader </a> 
+</div>
