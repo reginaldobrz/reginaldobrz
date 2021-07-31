@@ -36,6 +36,6 @@ Call me Reginaldo, I'm a full stack over flow (joke-ASAP) developer and a huge f
   
 ##
  
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/reginaldobrz/reginaldobrz/blob/output/github-contribution-grid-snake.svg)
  
 "Luke, I am your father - Darth Vader " 
