@@ -55,4 +55,6 @@ Call me Reginaldo, I'm a full stack over flow (joke-ASAP) developer and a huge f
  ##
  
 <a align="center" href="https://www.youtube.com/watch?v=_lOT2p_FCvA" target="_blank">Luke, I am your father - Darth Vader </a> 
+ <div class="opt" onCLick="window.open('https://www.youtube.com/watch?v=_lOT2p_FCvA','_blank');">Luke, I am your father - Darth Vader</div>
+ [go](https://www.youtube.com/watch?v=_lOT2p_FCvA){:target="_blank" rel="noopener"}
 
