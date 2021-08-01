@@ -13,6 +13,7 @@ Call me Reginaldo, I'm a full stack over flow (joke-ASAP) developer and a huge f
 - 📫 How to reach me: reginaldo-aguiar@hotmail.com
 - ⚡ Fun fact: I'm a full stack overflow developer ( I'm kidding, ok?)
 - 💻 Technologies: React, React Native, C#, .NetCore, Node and Type Script
+- 🚀 Concepts/Methods: DDD, CQRS, TDD
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Regis-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
