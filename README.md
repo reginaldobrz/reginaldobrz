@@ -5,7 +5,7 @@
 [![Hotmail Badge](https://img.shields.io/badge/-reginaldobrz@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:reginaldobrz@gmail.com)](mailto:reginaldobrz@gmail.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/reginaldobrz.svg?style=social)](https://twitter.com/reginaldobrz)   
  
-Call me Reginaldo, I'm a full stack over flow (joke-ASAP) developer and a huge fan of new technologies, so look below to know more about me!
+I am Reginaldo, A full stack over flow (joke-ASAP) developer and a huge fan of new technologies. Please check out belllow to know more about me!
 
 - 🌱 I’m currently learning React and C#(.NetCore)
 - 👯 I’m looking to collaborate on c# and react communits
