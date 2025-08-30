@@ -44,8 +44,13 @@
 
 ##
  
-![Snake animation](https://github.com/reginaldobrz/reginaldobrz/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/reginaldobrz/reginaldobrz/blob/output/github-contribution-grid-snake-dark.svg)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="github-contribution-grid-snake.svg" />
+</picture>
 
 
 <div style="display:table; width:100%; border:0; margin:0; padding:0;">
