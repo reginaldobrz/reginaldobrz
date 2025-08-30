@@ -1,58 +1,73 @@
-### MAY THE FORCE BE WITH YOU YOUNG PADAWAN 👋,
+<h1 align="center">Hi 👋, May the force be with you young padawan.</h1>
+<h3 align="center">A passionate developer from Brazil</h3>
 
-[![Linkedin Badge](https://img.shields.io/badge/-reginaldobrz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/reginaldobrz/)](https://www.linkedin.com/in/reginaldo-aguiar-morais-3b743b40/)
-[![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/12183868/reginaldo-aguiar?tab=profile)](https://stackoverflow.com/users/12183868/reginaldo-aguiar?tab=profile)
-[![Hotmail Badge](https://img.shields.io/badge/-reginaldobrz@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:reginaldobrz@gmail.com)](mailto:reginaldobrz@gmail.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/reginaldobrz.svg?style=social)](https://twitter.com/reginaldobrz)   
- 
-I am Reginaldo, A full stack over flow (joke-ASAP) developer and a huge fan of new technologies. Please check out belllow to know more about me!
+<p align="center">
+  <a href="https://www.linkedin.com/in/reginaldo-aguiar-morais-3b743b40/">
+    <img src="https://img.shields.io/badge/-reginaldobrz-blue?style=flat-square&logo=Linkedin&logoColor=white" />
+  </a>
+  <a href="https://stackoverflow.com/users/12183868/reginaldo-aguiar?tab=profile">
+    <img src="https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white" />
+  </a>
+  <a href="mailto:reginaldobrz@gmail.com">
+    <img src="https://img.shields.io/badge/-reginaldobrz@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/reginaldobrz">
+    <img src="https://img.shields.io/twitter/follow/reginaldobrz.svg?style=social" />
+  </a>
+</p>
 
-- 🌱 I’m currently learning React and C#(.NetCore)
-- 👯 I’m looking to collaborate on c# and react communits
-- 💬 Ask me about everything, if i could i'll help! 
-- 📫 How to reach me: reginaldo-aguiar@hotmail.com
-- ⚡ Fun fact: I'm a full stack overflow developer ( I'm kidding, ok?)
-- 💻 Technologies: React, React Native, C#, .NetCore, Node and Type Script
-- 🚀 Concepts/Methods: (Bakery DDD 🤣), CQRS, TDD
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Regis-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Regis-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Regis-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Regis-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Regis-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
-  <img align="center" alt="Regis-Node" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
- 
-  <img align="center" alt="Regis-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Regis-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
- 
-  <img align="center" alt="Regis-SqlServer" height="30" width="40" src="https://img.icons8.com/color/452/microsoft-sql-server.png">
-  <img align="center" alt="Regis-Mongo" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="Regis-Redis" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg">
-  <img align="center" alt="Regis-MySql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
- 
-  <img align="center" alt="Regis-Rmq" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/rabbitmq.svg">
- 
-  <img align="center" alt="Regis-Docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
-  <img align="center" alt="Regis-Aws" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg">
- <img align="center" alt="Regis-Azure" height="30" width="40" src="https://seeklogo.com/images/M/microsoft-azure-logo-85055C44BE-seeklogo.com.png">
-</div>
-  
- 
+- 🔭 I’m currently working on **RAM Tecnology**  
+- 🌱 I’m currently learning **How to apply Artificial Intelligence in real-world projects.**  
+- 👯 I’m looking to collaborate on **.Net community**  
+- 🤝 I’m looking for help with **Any tech issues.**  
+- 💬 Ask me about **Software engineering, system architecture, cloud solutions, and clean code.**  
+- 📫 How to reach me **reginaldo-aguiar@hotmail.com**  
+- ⚡ Fun fact **I debug in my sleep and sometimes dream in C# code.**
+
+
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+
 ##
 
-<div>
-  <a href="https://github.com/reginaldobrz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=reginaldobrz&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reginaldobrz&layout=compact&langs_count=7&theme=radical"/>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=reginaldobrz&show_icons=true&locale=en&theme=dracula&layout=compact" alt="Top Langs"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=reginaldobrz&show_icons=true&locale=en&theme=dracula" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=reginaldobrz&theme=dracula" alt="GitHub Streak"/>
 </div>
- 
+
+
+
 
 ##
  
 ![Snake animation](https://github.com/reginaldobrz/reginaldobrz/blob/output/github-contribution-grid-snake.svg)
- 
+
+
+
+<div style="display:table; width:100%; border:0; margin:0; padding:0;">
+  <div style="display:table-cell; vertical-align:middle; text-align:left;">
+    <h3 style="margin:0 0 8px 0;">Connect with me:</h3>
+    <a href="https://dev.to/reginaldo_aguiar_b0d0d504"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="30" width="40" /></a>
+    <a href="https://twitter.com/reginaldobrz"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
+    <a href="https://www.linkedin.com/in/reginaldo-aguiar-morais-3b743b40/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+    <a href="https://stackoverflow.com/users/12183868"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" width="40" /></a>
+    <a href="https://medium.com/@reginaldobrz"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="40" /></a>
+    <a href="https://discord.gg/reginaldobrz#1372"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40" /></a>
+  </div>
+  <div style="display:table-cell; vertical-align:middle; text-align:right; width:1%;">
+    <h3 style="margin:0 0 8px 0;">Support:</h3>
+    <a href="https://buymeacoffee.com/reginaldobrz" style="display:inline-block;">
+      <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy me a coffee" width="210" height="50" style="max-width:100%; height:auto; border:0; margin:0; padding:0;">
+    </a>
+  </div>
+</div>
+
+
+
 
  
 <div style="display: inline_block"><br>
