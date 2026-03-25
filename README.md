@@ -10,6 +10,9 @@
   </a>&nbsp;
   <a href="mailto:reginaldobrz@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>&nbsp;
+  <a href="https://medium.com/@reginaldobrz" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" alt="Medium"/>
   </a>
 </p>
 
