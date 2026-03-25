@@ -3,16 +3,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/reginaldo-aguiar-morais-3b743b40/">
-    <img src="https://img.shields.io/badge/-reginaldobrz-blue?style=flat-square&logo=Linkedin&logoColor=white" />
-  </a>
-  <a href="https://stackoverflow.com/users/12183868/reginaldo-aguiar?tab=profile">
-    <img src="https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white" />
-  </a>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin-in&logoColor=white" alt="LinkedIn"/>
+  </a>&nbsp;
+  <a href="https://www.reginaldoaguiar.com.br/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-2E8B57?style=flat-square&logo=google-chrome&logoColor=white" alt="Website"/>
+  </a>&nbsp;
   <a href="mailto:reginaldobrz@gmail.com">
-    <img src="https://img.shields.io/badge/-reginaldobrz@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/reginaldobrz">
-    <img src="https://img.shields.io/twitter/follow/reginaldobrz.svg?style=social" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
 
@@ -113,4 +110,4 @@
  
  ##
  
-<a align="center" href="https://www.youtube.com/watch?v=_lOT2p_FCvA" target="_blank">Luke, I am your father - Darth Vader </a> 
+<a align="center" href="https://www.reginaldoaguiar.com.br/" target="_blank">Luke, I am your father - Darth Vader </a> 
