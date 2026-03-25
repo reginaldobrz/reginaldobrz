@@ -66,10 +66,14 @@
 
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=reginaldobrz&show_icons=true&locale=en&theme=dracula&layout=compact" alt="Top Langs"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=reginaldobrz&show_icons=true&locale=en&theme=dracula" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=reginaldobrz&theme=dracula" alt="GitHub Streak"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=reginaldobrz&show_icons=true&locale=en&theme=tokyonight&layout=compact" alt="Top Langs"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=reginaldobrz&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats"/>
+  <!-- <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=reginaldobrz&theme=tokyonight" alt="GitHub Streak"/> -->
 </div>
+
+<p align="center">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reginaldobrz&theme=tokyonight" alt="reginaldobrz's github stats" /></a>
+</p>
 
 
 
