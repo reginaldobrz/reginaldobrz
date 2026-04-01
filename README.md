@@ -69,13 +69,13 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="48" height="48" />
       <br>Vue.js
     </td>
-  </tr>
-
-  <tr>
     <td align="center" width="96">
       <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="48" height="48" />
       <br>Angular
     </td>
+  </tr>
+
+  <tr>    
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="48" height="48" />
       <br>HTML5
@@ -108,17 +108,17 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="48" height="48" />
       <br>GitHub
     </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="96">
+     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="48" height="48" />
       <br>AWS
     </td>
-    <td align="center" width="96">
+     <td align="center" width="96">
       <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="48" height="48" />
       <br>Azure
     </td>
+  </tr>
+
+  <tr>      
     <td align="center" width="96">
       <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="48" height="48" />
       <br>GraphQL
@@ -149,6 +149,10 @@
     </td>
   </tr>
 </table>
+
+## My work day status ⚙️
+
+> My account status
 
 <div align="center">
   <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=reginaldobrz&show_icons=true&locale=en&theme=tokyonight&layout=compact" alt="Top Langs"/> -->
