@@ -178,6 +178,7 @@
 </picture>
 
 
+<!--
 <div style="display:table; width:100%; border:0; margin:0; padding:0;">
   <div style="display:table-cell; vertical-align:middle; text-align:left;">
     <h3 style="margin:0 0 8px 0;">Connect with me:</h3>
@@ -195,6 +196,7 @@
     </a>
   </div>
 </div>
+-->
 
 
 
